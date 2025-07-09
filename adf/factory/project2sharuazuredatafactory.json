@@ -1,0 +1,9 @@
+{
+	"name": "project2sharuazuredatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "217c52ab-c91d-45de-a71b-34595a6982f2",
+		"tenantId": "72a7b66f-8f7b-4daf-9566-0c8d04c3b3f5"
+	}
+}
